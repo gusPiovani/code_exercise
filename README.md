@@ -1,4 +1,5 @@
-# Lista de exercícios aula Técnica de Programação. JS E PY
+# Lista de exercícios aula Técnica de Programação.
+**Usando as linguagens Python e Java**
 
 
-Uma lista de atividades para aula de Técnica de Programação usando python e Java
+
